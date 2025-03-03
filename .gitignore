@@ -1,0 +1,5 @@
+
+.env
+/.idea
+*.pyc
+/assignment_2/.idea
